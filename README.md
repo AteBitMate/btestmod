@@ -1,2 +1,2 @@
-# cross-mod
+# btestmod
 Bill's Cross-mod content
