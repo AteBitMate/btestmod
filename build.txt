@@ -1,0 +1,4 @@
+displayName = Bill's Cross-mod Content
+author = Bill
+version = 1.0.3
+modReferences = ThoriumMod
